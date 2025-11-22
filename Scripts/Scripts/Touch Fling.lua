@@ -1,0 +1,1 @@
+﻿loadstring(game:HttpGet("https://raw.githubusercontent.com/m1zzy13/fling/refs/heads/main/fling.lua"))()

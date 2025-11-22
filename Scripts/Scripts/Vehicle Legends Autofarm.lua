@@ -1,0 +1,1 @@
+﻿loadstring(game:HttpGet("https://rawscripts.net/raw/APOLLO-Vehicle-Legends-CARS!-Auto-farm-16359"))()

@@ -1,0 +1,1 @@
+﻿loadstring(game:HttpGet("https://raw.githubusercontent.com/m1zzy13/ESPv6/refs/heads/main/Version6"))()

@@ -1,0 +1,1 @@
+﻿loadstring(game:HttpGet("https://raw.githubusercontent.com/2xrW/2xr/refs/heads/main/discord.gg/2xrscripts"))()
